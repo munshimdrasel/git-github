@@ -1,8 +1,10 @@
 # to remove everything from global environment
 rm(list = ls())
 
+#getting working directory
 getwd()
 
+#setting directory
 setwd("/Users/munshirasel/Google Drive/R/github-try/github-try")
 
 a <- 2a <- 2
